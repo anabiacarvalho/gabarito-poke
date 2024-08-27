@@ -1,6 +1,6 @@
 .lista-pokemon{
     list-style: none;
-    padding: 0;
+    padding: 5%;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
